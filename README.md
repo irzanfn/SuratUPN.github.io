@@ -59,7 +59,7 @@
        Upload letter attachments in the form of image files (.jpg, .png, .jpeg) and document (.pdf)
        Gallery of attached files that have been uploaded in the form of images (.jpg, .png, .jpeg) and document (.pdf)
        Multilevel user (Staff, Admin, Superadmin)
-       ![image](https://user-images.githubusercontent.com/67045123/115536123-a1189f80-a2c3-11eb-856f-d4eb699e59d0.png)
+![image](https://user-images.githubusercontent.com/67045123/115536123-a1189f80-a2c3-11eb-856f-d4eb699e59d0.png)
 
 * Index
 ![image](https://user-images.githubusercontent.com/67045123/115532309-dfac5b00-a2bf-11eb-99b5-3d8b8613e173.png)
