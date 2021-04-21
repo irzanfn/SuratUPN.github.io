@@ -64,40 +64,40 @@
 ![image](https://user-images.githubusercontent.com/67045123/115532309-dfac5b00-a2bf-11eb-99b5-3d8b8613e173.png)
 
 * Login
-* ![image](https://user-images.githubusercontent.com/67045123/115536376-f05ed000-a2c3-11eb-907f-9a731061ad7a.png)
+![image](https://user-images.githubusercontent.com/67045123/115536376-f05ed000-a2c3-11eb-907f-9a731061ad7a.png)
 
 * Incoming mail page
-* ![image](https://user-images.githubusercontent.com/67045123/115536602-2d2ac700-a2c4-11eb-874b-0e6d83378a45.png)
+![image](https://user-images.githubusercontent.com/67045123/115536602-2d2ac700-a2c4-11eb-874b-0e6d83378a45.png)
 
 * Add new incoming mail
-* ![image](https://user-images.githubusercontent.com/67045123/115536664-3fa50080-a2c4-11eb-9721-3e1e16cb59e7.png)
+![image](https://user-images.githubusercontent.com/67045123/115536664-3fa50080-a2c4-11eb-9721-3e1e16cb59e7.png)
 
 * Disposition page
-* ![image](https://user-images.githubusercontent.com/67045123/115536735-4fbce000-a2c4-11eb-997a-faf9e935ebf9.png)
+![image](https://user-images.githubusercontent.com/67045123/115536735-4fbce000-a2c4-11eb-997a-faf9e935ebf9.png)
 
 * Add new disposition
-* ![image](https://user-images.githubusercontent.com/67045123/115536788-5d726580-a2c4-11eb-9919-51bd80134621.png)
+![image](https://user-images.githubusercontent.com/67045123/115536788-5d726580-a2c4-11eb-9919-51bd80134621.png)
 
 * Print disposition
-* ![image](https://user-images.githubusercontent.com/67045123/115536850-695e2780-a2c4-11eb-91e4-761165f438af.png)
+![image](https://user-images.githubusercontent.com/67045123/115536850-695e2780-a2c4-11eb-91e4-761165f438af.png)
 
 * Outgoing mail page
-* ![image](https://user-images.githubusercontent.com/67045123/115536905-75e28000-a2c4-11eb-81e5-2a9b468400ff.png)
+![image](https://user-images.githubusercontent.com/67045123/115536905-75e28000-a2c4-11eb-81e5-2a9b468400ff.png)
 
 * Agenda book page
-* ![image](https://user-images.githubusercontent.com/67045123/115537037-9ca0b680-a2c4-11eb-9e7f-4dc908902f38.png)
+![image](https://user-images.githubusercontent.com/67045123/115537037-9ca0b680-a2c4-11eb-9e7f-4dc908902f38.png)
 
 * Gallery
-* ![image](https://user-images.githubusercontent.com/67045123/115537075-a7f3e200-a2c4-11eb-84d0-1be6607269e6.png)
+![image](https://user-images.githubusercontent.com/67045123/115537075-a7f3e200-a2c4-11eb-84d0-1be6607269e6.png)
 
 * Admin page
-* ![image](https://user-images.githubusercontent.com/67045123/115537126-b4783a80-a2c4-11eb-9239-ad22cd014e80.png)
+![image](https://user-images.githubusercontent.com/67045123/115537126-b4783a80-a2c4-11eb-9239-ad22cd014e80.png)
 
 * New user page
-* ![image](https://user-images.githubusercontent.com/67045123/115537168-bd690c00-a2c4-11eb-97da-2e800b6eb096.png)
+![image](https://user-images.githubusercontent.com/67045123/115537168-bd690c00-a2c4-11eb-97da-2e800b6eb096.png)
 
 * Edit profile page
-* ![image](https://user-images.githubusercontent.com/67045123/115537192-c659dd80-a2c4-11eb-9fd1-f040c45a35ea.png)
+![image](https://user-images.githubusercontent.com/67045123/115537192-c659dd80-a2c4-11eb-9fd1-f040c45a35ea.png)
 
 
 ### Built With
@@ -136,6 +136,11 @@ This is an example of how to list things you need to use the software and how to
 ## Contact
 
 Irzan Fajari Nurahmadan - [@irzanfajari](https://twitter.com/irzanfajari) - irzanfajari@gmail.com
+Pradista Aprilia Winarno - pradistaa@upnvj.ac.id
+Adha Maliq Ibrahim - adhami@upnvj.ac.id
+Ghozi Ihza Humamda - ghoziih@upnvj.ac.id
+
+
 
 Project Link: [https://github.com/irzanfn/SuratUPN.github.io](https://github.com/irzanfn/SuratUPN.github.io)
 
