@@ -7,22 +7,22 @@
 <br />
 <p align="center">
   <a href="https://github.com/irzanfn/SuratUPN.github.io">
-    <img src="public/img/Logo_UPNVJ.png" alt="Logo" width="80" height="80">
+    <img src="public/img/Logo_UPNVJ.png" alt="Logo" width="320" height="320">
   </a>
 
   <h3 align="center">Sistem Arsip Persuratan Fakultas Ilmu Komputer UPN Veteran Jakarta (Si-APIK)</h3>
 
   <p align="center">
-    project_description
+    Setelah sekian lama manajemen persuratan yang ada dilakukan dengan tumpukan buku yang banyak, menghabiskan banyak kertas, atau kehilangan agenda penting Sebagai new change di lingkungan UPN Veteran Jakarta ada cara lain untuk memudahkan rekapitulasi surat masuk yang efektif, efisien, cepat dan aman Sistem manajemen surat masuk yang terkontrol dapat mencatat setiap surat masuk yang ada dengan cepat, membuat surat disposisi dengan mudah, bahkan melihat banyak agenda dalam waktu yang singkat Dilengkapi dengan fitur edit, delete dan halaman admin memudahkan pengecekkan secara berkala ataupun tidak dan tetap aman tersimpan. Dengan User Interface yang friendly, sistem surat masuk ini dapat mudah digunakan dengan baik.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/irzanfn/SuratUPN.github.io"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/irzanfn/SuratUPN.github.io">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/irzanfn/SuratUPN.github.io/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/irzanfn/SuratUPN.github.io/issues">Request Feature</a>
   </p>
 </p>
 
