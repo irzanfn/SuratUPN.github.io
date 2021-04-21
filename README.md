@@ -135,10 +135,10 @@ This is an example of how to list things you need to use the software and how to
 <!-- CONTACT -->
 ## Contact
 
-Irzan Fajari Nurahmadan - [@irzanfajari](https://twitter.com/irzanfajari) - irzanfajari@gmail.com
-Pradista Aprilia Winarno - pradistaa@upnvj.ac.id
-Adha Maliq Ibrahim - adhami@upnvj.ac.id
-Ghozi Ihza Humamda - ghoziih@upnvj.ac.id
+* Irzan Fajari Nurahmadan - [@irzanfajari](https://twitter.com/irzanfajari) - irzanfajari@gmail.com
+* Pradista Aprilia Winarno - pradistaa@upnvj.ac.id
+* Adha Maliq Ibrahim - adhami@upnvj.ac.id
+* Ghozi Ihza Humamda - ghoziih@upnvj.ac.id
 
 
 
