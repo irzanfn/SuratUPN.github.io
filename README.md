@@ -67,11 +67,6 @@ Data merupakan hal yang sangat penting hal ini dikarenakan sebuah data menyangku
 Seiring dengan berkembangnya teknologi, segala hal yang dapat dilaksanakan dengan lebih mudah dan praktis. Di lingkungan Fakultas Ilmu Komputer untuk pemberkasan surat masih dilakukan secara manual dengan memasukkan data ke dalam buku agenda, pembuatan surat disposisi juga masih dilakukan secara manual sehingga kurang efisien dan rapi karena membutuhkan banyak buku tebal karena banyak sekali surat yang harus di data. Segala yang menyangkut pemberkasan data dirasa haruslah akurat dan memiliki keamanan yang jelas. Ketika ada kesalahan data yang dimasukkan secara manual atau offline, mengubah isi data akan menyusahkan dan banyak coretan sehingga catatan tidak terlihat rapi. Tingkat keamanan pada sistem offline juga tidak cukup baik seperti kehilangan berkas karena terselip atau hilang. Merubah sistem offline menjadi online dalam sebuah kegiatan pemberkasan menjadi salah satu pemanfaatan efisiensi dari teknologi yang sudah berkembang saat ini. Maka dari itu akan sangat membantu apabila terdapat sebuah sistem yang dapat membantu dalam melakukan penyimpanan, pendataan, dan pengolahan surat – menyurat yang ada Fakultas Ilmu Komputer.
 
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
-
-
 ### Built With
 
 * [Bootstrap](https://getbootstrap.com)
