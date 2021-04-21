@@ -13,7 +13,7 @@
   <h3 align="center">Sistem Arsip Persuratan Fakultas Ilmu Komputer UPN Veteran Jakarta (Si-APIK)</h3>
 
   <p align="center">
-    Setelah sekian lama manajemen persuratan yang ada dilakukan dengan tumpukan buku yang banyak, menghabiskan banyak kertas, atau kehilangan agenda penting Sebagai new change di lingkungan UPN Veteran Jakarta ada cara lain untuk memudahkan rekapitulasi surat masuk yang efektif, efisien, cepat dan aman Sistem manajemen surat masuk yang terkontrol dapat mencatat setiap surat masuk yang ada dengan cepat, membuat surat disposisi dengan mudah, bahkan melihat banyak agenda dalam waktu yang singkat Dilengkapi dengan fitur edit, delete dan halaman admin memudahkan pengecekkan secara berkala ataupun tidak dan tetap aman tersimpan. Dengan User Interface yang friendly, sistem surat masuk ini dapat mudah digunakan dengan baik.
+    After a long time the existing correspondence management was done with a lot of books, spent a lot of paper, or lost an important agenda. As a new change in the UPN Veteran Jakarta environment, there are other ways to facilitate the recapitulation of incoming letters that are effective, efficient, fast and safe. A controlled incoming mail management system can record every incoming letter quickly, make disposition letters easily, even see many agendas. Equipped with edit, delete and admin page features makes it easy to check periodically and keep it safe. With a friendly User Interface, this incoming mail system can be easily used properly.
     <br />
     <a href="https://github.com/irzanfn/SuratUPN.github.io"><strong>Explore the docs »</strong></a>
     <br />
@@ -52,14 +52,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+* Index
 ![image](https://user-images.githubusercontent.com/67045123/115532309-dfac5b00-a2bf-11eb-99b5-3d8b8613e173.png)
 
-Pada era modern ini akan sangat dibutuhkan sebuah kepraktisan yang pastinya harus ter-imbangi dengan ketepatan. Dengan adanya dua hal tersebut maka akan mempermudah sebuah pekerjaan, terlebih lagi dengan kondisi pandemi yang saat ini terjadi yang membuat segala pekerjaan menjadi terhambat dan harus dikerjakan secara online. Dalam kondisi ini akan berdampak terhadap tuntutan zaman yang akan semakin berat, karena selain dibutuhkan sebuah kepraktisan dan ketepatan akan dibutuhkan juga sebuah sistem yang dapat mengganti peran yang tadinya dilakukan secara offline menjadi dilakukan secara online. 
-
-Data merupakan hal yang sangat penting hal ini dikarenakan sebuah data menyangkut segala informasi lengkap yang dapat digunakan untuk segala kebutuhan dan keperluan. Data yang penting sepeti surat resmi, data diri, dan data toko atau perusahaan dapat digunakan seperti yang seharusnya ataupun digunakan untuk hal yang merugikan orang yang terkait pada data tersebut. Surat resmi merupakan surat yang nantinya akan digunakan untuk kepentingan yang bersifat resmi, baik antar perseorangan, antar instansi, ataupun antar organisasi; misalnya undangan, surat edaran, dan surat pemberitahuan. Memasukkan data-data penting dari sebuah surat merupakan suatu kegiatan yang sering dilakukan,  pemberkasan secara manual dan offline selama ini masih menggunakan alat tulis dan kertas yang dirasa kurang cepat, tepat, dan praktis. 
-
-Seiring dengan berkembangnya teknologi, segala hal yang dapat dilaksanakan dengan lebih mudah dan praktis. Di lingkungan Fakultas Ilmu Komputer untuk pemberkasan surat masih dilakukan secara manual dengan memasukkan data ke dalam buku agenda, pembuatan surat disposisi juga masih dilakukan secara manual sehingga kurang efisien dan rapi karena membutuhkan banyak buku tebal karena banyak sekali surat yang harus di data. Segala yang menyangkut pemberkasan data dirasa haruslah akurat dan memiliki keamanan yang jelas. Ketika ada kesalahan data yang dimasukkan secara manual atau offline, mengubah isi data akan menyusahkan dan banyak coretan sehingga catatan tidak terlihat rapi. Tingkat keamanan pada sistem offline juga tidak cukup baik seperti kehilangan berkas karena terselip atau hilang. Merubah sistem offline menjadi online dalam sebuah kegiatan pemberkasan menjadi salah satu pemanfaatan efisiensi dari teknologi yang sudah berkembang saat ini. Maka dari itu akan sangat membantu apabila terdapat sebuah sistem yang dapat membantu dalam melakukan penyimpanan, pendataan, dan pengolahan surat – menyurat yang ada Fakultas Ilmu Komputer.
 
 
 ### Built With
