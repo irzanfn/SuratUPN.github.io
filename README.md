@@ -18,8 +18,6 @@
     <a href="https://github.com/irzanfn/SuratUPN.github.io"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/irzanfn/SuratUPN.github.io">View Demo</a>
-    ·
     <a href="https://github.com/irzanfn/SuratUPN.github.io/issues">Report Bug</a>
     ·
     <a href="https://github.com/irzanfn/SuratUPN.github.io/issues">Request Feature</a>
