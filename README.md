@@ -59,7 +59,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![image](https://user-images.githubusercontent.com/67045123/115532309-dfac5b00-a2bf-11eb-99b5-3d8b8613e173.png)
+
+Pada era modern ini akan sangat dibutuhkan sebuah kepraktisan yang pastinya harus ter-imbangi dengan ketepatan. Dengan adanya dua hal tersebut maka akan mempermudah sebuah pekerjaan, terlebih lagi dengan kondisi pandemi yang saat ini terjadi yang membuat segala pekerjaan menjadi terhambat dan harus dikerjakan secara online. Dalam kondisi ini akan berdampak terhadap tuntutan zaman yang akan semakin berat, karena selain dibutuhkan sebuah kepraktisan dan ketepatan akan dibutuhkan juga sebuah sistem yang dapat mengganti peran yang tadinya dilakukan secara offline menjadi dilakukan secara online. 
+
+Data merupakan hal yang sangat penting hal ini dikarenakan sebuah data menyangkut segala informasi lengkap yang dapat digunakan untuk segala kebutuhan dan keperluan. Data yang penting sepeti surat resmi, data diri, dan data toko atau perusahaan dapat digunakan seperti yang seharusnya ataupun digunakan untuk hal yang merugikan orang yang terkait pada data tersebut. Surat resmi merupakan surat yang nantinya akan digunakan untuk kepentingan yang bersifat resmi, baik antar perseorangan, antar instansi, ataupun antar organisasi; misalnya undangan, surat edaran, dan surat pemberitahuan. Memasukkan data-data penting dari sebuah surat merupakan suatu kegiatan yang sering dilakukan,  pemberkasan secara manual dan offline selama ini masih menggunakan alat tulis dan kertas yang dirasa kurang cepat, tepat, dan praktis. 
+
+Seiring dengan berkembangnya teknologi, segala hal yang dapat dilaksanakan dengan lebih mudah dan praktis. Di lingkungan Fakultas Ilmu Komputer untuk pemberkasan surat masih dilakukan secara manual dengan memasukkan data ke dalam buku agenda, pembuatan surat disposisi juga masih dilakukan secara manual sehingga kurang efisien dan rapi karena membutuhkan banyak buku tebal karena banyak sekali surat yang harus di data. Segala yang menyangkut pemberkasan data dirasa haruslah akurat dan memiliki keamanan yang jelas. Ketika ada kesalahan data yang dimasukkan secara manual atau offline, mengubah isi data akan menyusahkan dan banyak coretan sehingga catatan tidak terlihat rapi. Tingkat keamanan pada sistem offline juga tidak cukup baik seperti kehilangan berkas karena terselip atau hilang. Merubah sistem offline menjadi online dalam sebuah kegiatan pemberkasan menjadi salah satu pemanfaatan efisiensi dari teknologi yang sudah berkembang saat ini. Maka dari itu akan sangat membantu apabila terdapat sebuah sistem yang dapat membantu dalam melakukan penyimpanan, pendataan, dan pengolahan surat – menyurat yang ada Fakultas Ilmu Komputer.
+
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
@@ -68,10 +75,10 @@ Here's a blank template to get started:
 
 ### Built With
 
-* []()
-* []()
-* []()
-
+* [Bootstrap](https://getbootstrap.com)
+* [JQuery](https://jquery.com)
+* [Laravel](https://laravel.com)
+* [MySQL](https://www.mysql.com/)
 
 
 <!-- GETTING STARTED -->
